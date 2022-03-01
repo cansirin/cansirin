@@ -9,6 +9,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06b6d4)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-blue)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet)
+![AWS](https://img.shields.io/badge/-AWS-orange)
+![NextJS](https://img.shields.io/badge/-NextJS-yellowgreen)
+![SQL/NOSQL](https://img.shields.io/badge/-SQL%20/%20NOSQL-informational)
 
 
 
