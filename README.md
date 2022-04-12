@@ -1,6 +1,6 @@
 # Hey, I'm Can 👋
 
-## ☼🧑🏻‍💻 Currently looking for a software engineering position. Reach me at cansirin12@gmail.com
+I am an Associate Software Engineer @ServiceNow
 
 ![HTML](https://img.shields.io/badge/HTML-e34f26)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet)
