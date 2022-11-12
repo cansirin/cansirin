@@ -1,6 +1,6 @@
 # Hey, I'm Can 👋
 
-I am an Associate Software Engineer @ServiceNow
+I am working as an Associate Software Engineer @ServiceNow
 
 ![HTML](https://img.shields.io/badge/HTML-e34f26)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet)
