@@ -16,7 +16,7 @@ I am working as an Associate Software Engineer @ServiceNow
 
 
 - :computer: I'm a software engineer who likes to tackle product problems with technical solutions and a team player who never gives up learning and loves to share his knowledge around... 
-- :zap: Always positive, always hyped. :rocket:
+- :zap: Always positive, always hyped :rocket:
 
 <!--
 **cansirin/cansirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
